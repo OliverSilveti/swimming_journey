@@ -28,3 +28,8 @@ Visualization with matplotlib and seaborn
 Simple AI/ML insights using scikit-learn
 
 Narrative and reflections on training progress
+
+🌊 Reflections
+
+This notebook represents how AI can support personal growth—not just competitive performance.
+By analyzing swim sessions with data-driven methods, I gained insights into stamina, pace, and recovery that helped improve my overall technique.
